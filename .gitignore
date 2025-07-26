@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit config and logs
+.streamlit/config.toml
+.streamlit/secrets.toml
+logs/
